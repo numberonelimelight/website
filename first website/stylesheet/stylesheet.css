@@ -1,0 +1,63 @@
+body {
+	background-color: white;
+}
+
+h1 {color:black;
+	text-align: center;
+	}
+
+p {
+	font-size: 30px;
+}
+#para1 {
+	text-align: center;
+	color: red;
+}
+.center {
+	text-align: center;
+	color: black;
+}
+.navbar {
+	overflow: hidden;
+	background-color: #333;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.navbar a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 5px 10px;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+.navbar a:hover {
+	background: #ddd;
+	color: blue;
+}
+
+.main {
+	padding: 16px;
+	margin-top: 30px;
+	height: 900px;
+}
+
+ul li {
+	font-size: 30px;
+}
+
+tbody {
+	font-size: 30px;
+}
+
+ol li {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 30px;
+}
